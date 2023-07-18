@@ -79,6 +79,9 @@ a:hover{
 
 .pro{
     text-decoration: underline;
+    /* 
+     */
+    ;
 }
 
 .contact-message {
@@ -111,8 +114,13 @@ a:hover{
     margin-right: 30px;
 }
 
+.web-skill{
+    text-indent: 2rem;
+}
+
 .map-img{
     width: 50%;
+    /* height: 80%; */
     float: right;
     margin-right: 30px;
 }
